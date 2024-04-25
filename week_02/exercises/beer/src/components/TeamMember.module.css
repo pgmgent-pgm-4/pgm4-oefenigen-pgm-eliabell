@@ -1,0 +1,29 @@
+/* TeamMember.module.css */
+.container {
+  margin-left: 15rem;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    max-width: 30rem;
+  }
+  
+  .name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .role {
+    font-size: 16px;
+    color: #777;
+  }
+  
+  .email {
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .phoneNumber {
+    font-size: 14px;
+    color: #333;
+  }
